@@ -56,15 +56,15 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		6A66E1E6D30DC857A65515CE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		6EC35329046907205B19C56C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6A66E1E6D30DC857A65515CE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		6EC35329046907205B19C56C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8589BD2BF4A12B4226589D48 /* Pods-YYIBaseCategories_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YYIBaseCategories_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YYIBaseCategories_Example/Pods-YYIBaseCategories_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9A1C5F3AB019A6C48DCB83FB /* Pods-YYIBaseCategories_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YYIBaseCategories_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-YYIBaseCategories_Tests/Pods-YYIBaseCategories_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9C26C2EE76FE862B0B1DA5AA /* Pods_YYIBaseCategories_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YYIBaseCategories_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1FC3B854BBE3D63DDA83CF5 /* Pods-YYIBaseCategories_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YYIBaseCategories_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YYIBaseCategories_Tests/Pods-YYIBaseCategories_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		D81C81B18B27500D2A5A8E35 /* YYIBaseCategories.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YYIBaseCategories.podspec; path = ../YYIBaseCategories.podspec; sourceTree = "<group>"; };
+		D81C81B18B27500D2A5A8E35 /* YYIBaseCategories.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YYIBaseCategories.podspec; path = ../YYIBaseCategories.podspec; sourceTree = "<group>"; };
 		D94F69E83CC35D1081E12253 /* Pods-YYIBaseCategories_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YYIBaseCategories_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-YYIBaseCategories_Example/Pods-YYIBaseCategories_Example.release.xcconfig"; sourceTree = "<group>"; };
 		EE1D31F7EB4D9D3F30D90C9A /* Pods_YYIBaseCategories_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YYIBaseCategories_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -248,7 +248,7 @@
 			attributes = {
 				CLASSPREFIX = YYI;
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = DingYusong;
+				ORGANIZATIONNAME = "Beijing Yingyan Internet Co., Ltd..";
 				TargetAttributes = {
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;

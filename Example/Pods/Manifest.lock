@@ -1,0 +1,16 @@
+PODS:
+  - YYIBaseCategories (0.1.0)
+
+DEPENDENCIES:
+  - YYIBaseCategories (from `../`)
+
+EXTERNAL SOURCES:
+  YYIBaseCategories:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YYIBaseCategories: e0d2e0eeed389717f04b108b7644cd398aadbe6d
+
+PODFILE CHECKSUM: 9efa8394f6147eb9c155e03efff1e60a9cb08ff5
+
+COCOAPODS: 1.2.0
