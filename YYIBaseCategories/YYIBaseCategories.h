@@ -17,6 +17,7 @@
 
 #pragma mark - UIKit
 
+#import "UIView+YYIExtend.h"
 #import "UIColor+YYIExtend.h"
 
 #endif /* YYIBaseCategories_h */
