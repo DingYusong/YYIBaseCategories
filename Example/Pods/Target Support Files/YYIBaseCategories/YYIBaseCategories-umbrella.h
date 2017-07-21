@@ -10,7 +10,9 @@
 #endif
 #endif
 
-#import "NSArray+Extend.h"
+#import "NSArray+YYIExtend.h"
+#import "NSDictionary+YYIExtend.h"
+#import "NSString+YYIExtend.h"
 
 FOUNDATION_EXPORT double YYIBaseCategoriesVersionNumber;
 FOUNDATION_EXPORT const unsigned char YYIBaseCategoriesVersionString[];

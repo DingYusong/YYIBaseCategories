@@ -1,19 +1,19 @@
 //
-//  NSArray+Extend.m
+//  NSArray+YYIExtend.m
 //  Pods
 //
 //  Created by 丁玉松 on 2017/7/20.
 //  Copyright © 2017年 Beijing Yingyan Internet Co., Ltd.. All rights reserved.
 //
 
-#import "NSArray+Extend.h"
+#import "NSArray+YYIExtend.h"
 
-@implementation NSArray (Extend)
+@implementation NSArray (YYIExtend)
 
 @end
 
 
-@implementation NSArray (Safe)
+@implementation NSArray (YYISafe)
 
 - (id)safeObjectAtIndex:(NSUInteger)index
 {

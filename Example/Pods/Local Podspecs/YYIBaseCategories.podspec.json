@@ -1,7 +1,7 @@
 {
   "name": "YYIBaseCategories",
   "version": "0.1.0",
-  "summary": "A short description of YYIBaseCategories.",
+  "summary": "iOS基础类别库",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/DingYusong/YYIBaseCategories",
   "license": {
@@ -9,7 +9,7 @@
     "file": "LICENSE"
   },
   "authors": {
-    "DingYusong": "yusong.ding@huangjinqianbao.com"
+    "DingYusong": "dys90@qq.com"
   },
   "source": {
     "git": "https://github.com/DingYusong/YYIBaseCategories.git",

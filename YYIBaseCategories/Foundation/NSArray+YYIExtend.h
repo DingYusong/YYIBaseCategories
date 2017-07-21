@@ -1,5 +1,5 @@
 //
-//  NSArray+Extend.h
+//  NSArray+YYIExtend.h
 //  Pods
 //
 //  Created by 丁玉松 on 2017/7/20.
@@ -8,12 +8,12 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSArray (Extend)
+@interface NSArray (YYIExtend)
 
 @end
 
 
-@interface NSArray (Safe)
+@interface NSArray (YYISafe)
 
 - (id)safeObjectAtIndex:(NSUInteger)index;
 
